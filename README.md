@@ -24,7 +24,19 @@
 <div><h4>:hammer_and_wrench: Languages and Tools :</h4>
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="next"  width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="typescript"  width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="typescript"  width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCss" alt="Tailwind css"  width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript"  width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html" alt="Html"  width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css"  width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+<h1></h1>
+<div>
+ <h4> :fire: Github Stats :</h4>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehapatil-5625&layout=compact&theme=default&bg_color=FFFFF&text_color=00000&border_color=FFFFF" alt="Top Languages">
+ </a>
 </div>
 
 
