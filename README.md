@@ -13,6 +13,10 @@ I'm always interested in connecting with DevOps engineers, cloud professionals, 
 ![](https://streak-stats.demolab.com/?user=snehapatil-5625&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=snehapatil-5625&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🤝 Let's Connect:
+I'm always interested in connecting with DevOps engineers, cloud professionals, and engineering teams working on automation, cloud infrastructure, and platform reliability. <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sneha-patil-b29b43217) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehapatil3420@gmail.com) 
+
+
 
 
